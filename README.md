@@ -8,9 +8,13 @@
 
 Current project backlog (in no particular order)
     - Raspberry Pi front door cam with package delivery/visitor notification (knock,knock muthafucka)
+    
     - Air quality monitor (meybe breathe less today?)
+    
     - Raspberry Pi-controlled indoor hydroponic garden (vegitables, but harder)
+    
     - Home-made Space Mouse ripoff (get dizzy, idior)
+    
     - Custom ergo mouse (the middle age.. it's closing in)
     - Custom game controller argo handles (gol ram tiny controllers make my hands tired)
     - Fancy adjustable desk lamp (is there not something reasonably priced AND also not an ugly pile of crap?)
